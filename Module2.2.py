@@ -1,0 +1,7 @@
+firstName = input("First Name: ")
+lastName = input("Laste Name: ")
+birthDay = input("Birth Day: ")
+birthMonth = input("Birth Month: ")
+birthYear = input("Birth Year: ")
+lastFourSocial = input("Last Four Digits of Social Security: ")
+print(firstName +" "+ lastName +"\n"+ birthMonth +" "+ birthDay +", "+ birthYear +"\n"+ lastFourSocial)
